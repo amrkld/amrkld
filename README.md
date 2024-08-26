@@ -1,7 +1,7 @@
 ![MasterHead](https://lh6.googleusercontent.com/-7j58N3AKA1a8rLziCr4UiXuahPJwoaw23nTY2uuj1orxefAG8t3wqoaDVNBkBu0ZnbnMlcTRluRW-CNyqiAicLXYfC0nq3Amme3XOvrqHAHS0KYrAlwODEtn5QDHASzdz9UXGqx)
 
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer from Egypt, I love cooking</h3>
+<h3 align="center">An Artificial Intelligence Engineer from Egypt, I love cooking</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/ac/dc/8eacdc657efaaa2b710e960c71fed669.gif">
 
 <p align="left"> <a href="https://twitter.com/amr5ld" target="blank"><img src="https://img.shields.io/twitter/follow/amr5ld?logo=twitter&style=for-the-badge" alt="amr5ld" /></a> </p>
