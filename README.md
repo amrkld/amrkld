@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **amrk6668@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AwkB5c3oGIvDIGaAUhD3pkEXaF6fBh0D/view?usp=sharing](https://drive.google.com/file/d/1AwkB5c3oGIvDIGaAUhD3pkEXaF6fBh0D/view?usp=sharing)
-
-- ⚡ Fun fact **I love cooking**
+- ⚡ Fun fact *I love cooking*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
