@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/72/ca/20/72ca2020ac37eb889622274ee7f21744.gif)]
+![MasterHead](https://i.pinimg.com/originals/72/ca/20/72ca2020ac37eb889622274ee7f21744.gif)
 
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer from Egypt</h3>
