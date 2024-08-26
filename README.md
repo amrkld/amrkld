@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/72/ca/20/72ca2020ac37eb889622274ee7f21744.gif)
 
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
-<h3 align="center">A passionate Artificial Intelligence Engineer from Egypt</h3>
+<h3 align="center">A passionate Artificial Intelligence Engineer from Egypt, I love cooking</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8e/ac/dc/8eacdc657efaaa2b710e960c71fed669.gif">
 
 <p align="left"> <a href="https://twitter.com/amr5ld" target="blank"><img src="https://img.shields.io/twitter/follow/amr5ld?logo=twitter&style=for-the-badge" alt="amr5ld" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Computer Vision**
 
-- 💬 Ask me about **python, computer vision, generative ai**
+- 💬 Ask me about **python, computer vision, generative AI**
 
 - 📫 How to reach me **amrk6668@gmail.com**
 
