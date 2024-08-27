@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amr5ld" target="blank"><img src="https://img.shields.io/twitter/follow/amr5ld?logo=twitter&style=for-the-badge" alt="amr5ld" /></a> </p>
 
-- 🔭 I’m currently working on [Image to Text OCR project](https://github.com/amrkld/Image_to_text_OCR_project)
+- 🔭 I’m currently working on [Post Estimation Module](https://github.com/amrkld/Post-Estimation-Module)
 
 - 🌱 I’m currently learning **Advanced Computer Vision**
 
