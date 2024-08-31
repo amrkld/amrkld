@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h3 align="center">An Artificial Intelligence Engineer from Egypt, I love cooking</h3>
-<img align="right" alt="Coding" width="700" src="https://i.pinimg.com/originals/94/b2/1a/94b21a17d8a954aee4e7228457d52729.gif">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/94/b2/1a/94b21a17d8a954aee4e7228457d52729.gif">
 
 <p align="left"> <a href="https://twitter.com/amr5ld" target="blank"><img src="https://img.shields.io/twitter/follow/amr5ld?logo=twitter&style=for-the-badge" alt="amr5ld" /></a> </p>
 
