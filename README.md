@@ -8,7 +8,6 @@
 
 - 🟢 Buy my services at [upwork](https://www.upwork.com/freelancers/~014f0b2166658a64e4?mp_source=share) or [Contra](https://contra.com/amr_4w63iey7?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link)
 
-- 🔭 I’m currently working on a **private project** 🤫
 
 - 🌱 I’m currently learning **Advanced Computer Vision**
 
