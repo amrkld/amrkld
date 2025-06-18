@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Advanced Computer Vision**
 
-- 💬 Ask me about **python, computer vision, generative AI**
+- 💬 Ask me about **computer vision, generative AI and freelancing**
 
 - 📫 How to reach me **amrk6668@gmail.com**
 
-- ⚡ Fun fact *I love cooking*
+- ⚡ Fun fact *I love cooking and Coffee*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
