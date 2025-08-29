@@ -1,4 +1,4 @@
-![MasterHead](https://lh6.googleusercontent.com/-7j58N3AKA1a8rLziCr4UiXuahPJwoaw23nTY2uuj1orxefAG8t3wqoaDVNBkBu0ZnbnMlcTRluRW-CNyqiAicLXYfC0nq3Amme3XOvrqHAHS0KYrAlwODEtn5QDHASzdz9UXGqx)
+![MasterHead](https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif)
 
 <h1 align="center">Hi 👋, I'm Amr Khaled</h1>
 <h2 align="center">MLOps from Egypt </h3>
